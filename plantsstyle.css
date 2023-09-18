@@ -1,0 +1,254 @@
+html{
+    width: fit-content;
+}
+
+body{
+    margin-top: 93px;
+    max-width: 100%;
+}
+
+header{
+    background-color: #ffffff;
+    padding: 0px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    color: #5a7057;
+}
+
+/* nav*/
+
+nav ul{
+    padding: 5px;
+    background-color: #a2c79d;
+    width: 1.0;
+}
+nav li{
+    display: inline-block;
+    white-space: nowrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+nav li span{
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffffff;
+    margin-left: 100px;
+}
+nav li a{
+    text-decoration: none;
+    width: 100%;
+    color: #ffffff;
+    margin: 80px;
+}
+
+/* .beginner */
+
+.beginner{
+    text-align: center;
+}
+.beginner h2{
+    color: #5a7057;
+}
+.beginner p{
+    color: #799376;
+}
+.beginner .name{
+    color: #828282;
+    font-size: 13px;
+    margin: 30px;
+}
+.name span{
+    text-decoration: underline;
+}
+
+/* .most */
+
+div .most{
+    max-width: 1.0;
+}
+.most img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* .one */
+
+.one h3{
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    border-top: 1px solid #cdcdcd;
+    padding-top: 28px;
+}
+.one h3 a{
+    color: #5a7057;
+}
+.one img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.one .buy{
+    color: #5a7057;
+}
+.one .buy a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5a7057;
+    padding: 8px;
+}
+
+/* figcaption */
+
+figcaption{
+    color: #5a7057;
+    max-width: 78px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buy{
+    margin-left: 30px;
+}
+.write{
+    color: #799376;
+    margin-left: 30px;
+    line-height: 1.3;
+}
+
+/* .two */
+
+.two img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.two .buy a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5a7057;
+    padding: 8px;
+}
+.two .buy{
+    color: #5a7057;
+    text-decoration: none;
+}
+.two h3 a{
+    color: #5a7057;
+}
+.two h3{
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    border-top: 1px solid #cdcdcd;
+    padding-top: 28px;
+}
+
+/* .moneytreeimg */
+
+.moneytreeimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.moneytreeimg .buy{
+    color: #5a7057;
+}
+.moneytreeimg .buy a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5a7057;
+    padding: 8px;
+}
+
+/* spiderplantimg */
+
+.spiderplantimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.spiderplantimg .buy{
+    color: #5a7057;
+}
+.spiderplantimg .buy a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5a7057;
+    padding: 8px;
+}
+
+/* .discussion */
+
+.discussion h3{
+    color: #5a7057;
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    border-top: 1px solid #cdcdcd;
+    padding-top: 28px;
+}
+.discussion p{
+    color: #799376;
+    margin-left: 30px;
+    line-height: 1.3;
+}
+
+/* footer */
+
+footer{
+    text-align: center;
+    color: #5a7057;
+    font-weight: bold;
+}
+
+/* .attributes */
+
+.attributes h2{
+    color: #5a7057;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px;
+    border-top: 1px solid #cdcdcd;
+    padding-top: 28px;
+}
+.attributes li{
+    color: #799376;
+}
+.attributes li::marker{
+    color: #5a7057;
+}
+
+/* .care */
+
+.care h2{
+    color: #5a7057;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px;
+    border-top: 1px solid #cdcdcd;
+    padding-top: 28px;
+}
+.care p{
+    color: #799376;
+    margin-left: 30px;
+    line-height: 1.3;
+}
+
+/* .footer2 */
+
+.footer2 a{
+    text-decoration: underline;
+    color: #5a7057;
+}
